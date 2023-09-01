@@ -43,7 +43,7 @@ Para estruturar as nomenclaturas das classes, métodos e variáveis utilizei o p
 Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 ```
 
-### Variáveis Criadas
+#### Variáveis Criadas
 
 * Revisando sobre regras de declaração de variáveis
 
