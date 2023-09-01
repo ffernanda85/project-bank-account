@@ -28,14 +28,6 @@ link: https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desaf
 
 Para estruturar as nomenclaturas das classes, métodos e variáveis utilizei o padrão em inglês. Para me aproximar ao máximo do padrão atual.
 
-```Java
-    int account = scanner.nextInt();
-    String agency = scanner.next();
-    String firstName = scanner.next();
-    String lastName = scanner.next();
-    double balance = scanner.nextDouble();
-```
-
 ### 🧱 Estrutura do Projeto
 
 * Criei o projeto `BankAccount` que receberá dados via terminal contendo as características de conta em banco conforme atributos definidos e solicitados no projeto.
@@ -49,6 +41,18 @@ Para estruturar as nomenclaturas das classes, métodos e variáveis utilizei o p
 ```Java
 //Criando nossa instância do Scanner para fazer a leitura dos dados inseridos pelo usuário
 Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
+```
+
+### Variáveis Criadas
+
+* Revisando sobre regras de declaração de variáveis
+
+```Java
+    int account = scanner.nextInt();
+    String agency = scanner.next();
+    String firstName = scanner.next();
+    String lastName = scanner.next();
+    double balance = scanner.nextDouble();
 ```
 
 #### Solicitando Dados do Usuário e Atribuindo a Variável
