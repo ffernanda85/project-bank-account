@@ -6,8 +6,8 @@
 
 ## 📌 Temas Abordados:
 
-- [x] Amatomia das classes;
-- [x] Padrão de nomenclatura de: classes, métodos e váriáeis;
+- [x] Anatomia das classes;
+- [x] Padrão de nomenclatura de: classes, métodos e variáveis;
 - [x] Tipos e variáveis;
 - [x] Operadores;
 - [x] Métodos;
